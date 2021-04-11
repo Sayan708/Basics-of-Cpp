@@ -1,0 +1,14 @@
+include<iostream>
+using namespace std; 
+
+main()
+{ 
+float a,b,product ; 
+cout<<" enter two numbers: ";
+cin>>a>>b; 
+
+product =a*b ;
+cout<<" \n Product = "<<product; 
+
+return 0;
+}
